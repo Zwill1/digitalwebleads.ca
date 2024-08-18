@@ -7,5 +7,4 @@
     <?php wp_head() ?>
 </head>
 <body>
-<p>header</p>
-    
+<p class="bg-red-100">header</p>
